@@ -1,0 +1,90 @@
+{
+"name": "DLTV",
+"author": "เรียนออนไลน์แต่ละระดับชั้นเรียน",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=dltv",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "DLTV 01",
+		"image": "https://www.hostpic.org/images/2111062249070099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462424p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 02",
+		"image": "https://www.hostpic.org/images/2111062249340092.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462434p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 03",
+		"image": "https://www.hostpic.org/images/2111062250080095.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462444p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 04",
+		"image": "https://www.hostpic.org/images/2111062250340096.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462454p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 05",
+		"image": "https://www.hostpic.org/images/2111062250590100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462464p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 06",
+		"image": "https://www.hostpic.org/images/2111062251270099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462474p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 07",
+		"image": "https://www.hostpic.org/images/2111062252000109.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462484p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 08",
+		"image": "https://www.hostpic.org/images/2111062252260109.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4462494p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 09",
+		"image": "https://www.hostpic.org/images/2111062252530093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m44624a4p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 10",
+		"image": "https://www.hostpic.org/images/2111062253180114.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4463414p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 11",
+		"image": "https://www.hostpic.org/images/2111062254010100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4463424p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 12",
+		"image": "https://www.hostpic.org/images/2111062254310106.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4463434p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 13",
+		"image": "https://www.hostpic.org/images/2111062254570113.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4463444p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 14",
+		"image": "https://www.hostpic.org/images/2111062255230098.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4463454p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DLTV 15",
+		"image": "https://www.hostpic.org/images/2111062255490093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5i4t4u4y3i4a4p454p2l5c4p5n5m274e5r4h5b4j4m2k5j4o4o4c4q2j5k4m4463464p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ETV",
+		"image": "https://www.hostpic.org/images/2111062256140093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w2b4u2v25364s2v2x2m2u2446374f4r2x204j4n5t4a4n2t5g4v484r4n4x5d434v514t5f4g5t4f4g4q426s2m4z2y523",
+		"playInNatPlayer": "true"
+		}
+]
+}

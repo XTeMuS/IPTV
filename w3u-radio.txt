@@ -1,0 +1,284 @@
+{
+"name": "Radio",
+"author": "ฟังเพลงเพราะๆ เพลินๆ",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=radio",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "COOL Fahrenheit",  
+		"image": "https://www.hostpic.org/images/2111070725510107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5l4o4k4m5p4e4o2n494i5u2l5m5e4q2f5w4y5c464i4s5t2c4i4l4q2e4r4m406j5e5g424t2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Start Up Radio",  
+		"image": "https://www.hostpic.org/images/2111070725550103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2q4n5o4v4d4v5y2n2s2o2b4i5q4j5m594j4z3a4t5k433w2a43343q273m4z5q474j5r504s2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Chill 89 FM",  
+		"image": "https://www.hostpic.org/images/2111070725590099.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u206b4a4k444s224n494h4l5l4n5m59454z3a4t5k4s2c4q5t4e4q2b4b4o5k4e444x5h5j424k4f484w4u5f4s4s4z3j4s2o4w2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FUNG FUNG FUNG",  
+		"image": "https://www.hostpic.org/images/2111070727480097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4r5k4k4y2z3l4f44494m424m4n526n4j4v5i4c433t2o2b4u2s4n4q484g5l4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Request Radio สตริง",  
+		"image": "https://www.hostpic.org/images/2111070727520093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l574s4s4z3o464k4l494z5s406j544d4s5t2n5l4r2k4p55353s2w2q2y5s4k4n5f5q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Request Radio ลูกทุ่ง",  
+		"image": "https://www.hostpic.org/images/2111070727520093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l574s4s4z3o464k4l494z5s406j544d4s5t2n5l4r2k4p55353t2w2q2y5s4k4n5f5q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Request Radio เพื่อชีวิต",  
+		"image": "https://www.hostpic.org/images/2111070727520093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l574s4s4z3o464k4l494z5s406j544d4s5t2n5l4r2k4p55353u2w2q2y5s4k4n5f5q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Request Radio สากล",  
+		"image": "https://www.hostpic.org/images/2111070727520093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l574s4s4z3o464k4l494z5s406j544d4s5t2n5l4r2k4p55353v2w2q2y5s4k4n5f5q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Request Radio แดนซ์",  
+		"image": "https://www.hostpic.org/images/2111070727520093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l574s4s4z3o464k4l494z5s406j544d4s5t2n5l4r2k4p55353w2w2q2e4r4m406j5e5g424t2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Sukson radio",  
+		"image": "https://www.hostpic.org/images/2111070729360114.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2q426o4e494q5s2h4d43484u5u2l5x5d423a4v224v2s2n326i4s4i4m4p3g5c4b4x5",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "88.5 EDS เรดิโอ",  
+		"image": "https://www.hostpic.org/images/2111070729400099.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2k4n5a4i494z3i4g4a494i424h4w544k4c4b4w24443t2n2g4q4t4l4d444s5",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "89.5 Sweet FM",  
+		"image": "https://www.hostpic.org/images/2111070729440106.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2p4j5a4i4n4z3p4h4c434t4t5j4264434j4q553b4x2w2o24463s4n4q484g5l4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "90.5 Smart News มิติข่าว",  
+		"image": "https://www.hostpic.org/images/2111070731320106.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4r5s4e4z2z3p4e444i4o4i5n4v5k5m274s5t2y5f433w2b4x213q273m4z5q474j5r5z3g4v5v2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "90.75 RMUTP Radio",  
+		"image": "https://www.hostpic.org/images/2111070731360113.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2x264x2v2x26423n2t2r21324x2e4a4y20314v224u243j416p4e444l4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "สวพ fm 91",  
+		"image": "https://www.hostpic.org/images/2111070731390093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w284w2v2x264z2n2s2u2q28443g4e4x2x264u2d4q4p4i4m584m4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "92.5 กรมประชาสัมพันธ์",  
+		"image": "https://www.hostpic.org/images/2111070733120088.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2n406a4o4m4p5f4f484m2k4y5c444p5f4q2x5f4c433v2o274u283m4s4l4k594f4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "HITZ 95.5",  
+		"image": "https://www.hostpic.org/images/2111070734550096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2n406a4o4m4p5f4f484m2k4y5c444p5f4q2x5f4c433v2o2b4u283m4s4l4k594f4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "จส.100",  
+		"image": "https://www.hostpic.org/images/2111070734580118.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4r5s4e4x224s2f484k484l5r4r5p5e4c4s5q4y5t284f4u553y203z2w224o434l5n5j5c4i5g4c4t4c454m4a4b4m5c4a464c4d426d454y5c45426j4n5q4p4m2u5y2u4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "101 RROne FM Radio",  
+		"image": "https://www.hostpic.org/images/2206111554100110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2k4n5a4i494z3i4g4a494i424h4w544k4c4b43334y2y2n2g4q4t4l4d444s5",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "102 คลื่นคนทำงาน",  
+		"image": "https://www.hostpic.org/images/2206111559000106.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2k4n5a4i494z3i4g4a494i424h4w544k4c4b4w234v2t2n2g4q4t4l4d444s5u2f4y554",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "103.5 FM One",  
+		"image": "https://www.hostpic.org/images/2206111603160110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d4v5l4n4d4z3m4d444k4c4v5m4p544e494x55394v2u2o24463s4n4q484g5l4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "105 FM วิทยุไทย เพื่อเด็กและครอบครัว",  
+		"image": "https://www.hostpic.org/images/2206111609190109.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2n406a4o4m4p5f4f484m2k4y5c444p5f4q2x5f4c433v2p254u283m4s4l4k594f4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "106 วิทยุครอบครัวข่าว",  
+		"image": "https://www.hostpic.org/images/2206111611320111.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2p4j5a4i4n424w2n2j4c45406g4x5w574q2r5c4y55313u29433w223r4n4x5d434v5",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "106.5 Green Wave",  
+		"image": "https://www.hostpic.org/images/2206111614040110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u206b4a4k464s224n494h4l5l4n5m59454z3a4t5k4s2c4q5t4e4q2f4l4k5d4g444x5h5j424k4f484w4u5f4s4s4z3j4s2o4w2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "EFM Online",  
+		"image": "https://www.hostpic.org/images/2206111617130104.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u206b4a4k444s224n494h4l5l4n5m59454z3a4t5k4s2c4q5t4e4q2d494s5u2l4m5u504j4r554s4j4g416q4v2l444r4x2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Love OK Click Station 96.75",  
+		"image": "https://www.hostpic.org/images/2206111619280102.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u20674d4h4s5v2q2p2g4g4h5s4q5x5e4b4z3l4j5r4s2v264z2z2q273m4z5q474j5r5z3g4v5v2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "104.5 อสมท นครศรีธรรมราช",  
+		"image": "https://www.hostpic.org/images/2206111626060110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2p416q4r4d4e5j4n2g434j406u2w5n5k423a4v2b4z2s2z206r4r48494g4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "98.75 เชียงใหม่",  
+		"image": "https://www.hostpic.org/images/2206111633300094.png",  
+		"url": "https://tv.xtemus.com/warch.php?ch=m5x5n4v523q2u2w274w2v2x234v2n2s2t2s224x29494y21324v244u243j416p4e444l4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "แก้วสาริกา radio",  
+		"image": "https://www.hostpic.org/images/2206111644250100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2m4t5p4t494x5f4g4h4m2i4v5t2r5y5m264m5x4c443w2x294u283m4s4l4k594f4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FM 101.25 อสมท. เชียงราย",  
+		"image": "https://www.hostpic.org/images/2206111653450110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2p416q4r4d4e5j4n2g434j406u2w5n5k423a4v284v2s2z206r4r48494g414l4i494",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FM 96.5 คลื่นความคิด",  
+		"image": "https://www.hostpic.org/images/2206111656170114.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2v594o4s4h5f484c4k454s5t2f4t5j454y5z204a494e43494y4n4d444x5j4o2l5t5q5q2x55474g4m4l5a4n474i5a48484n2a4t553c4b4m2n4x5p4j584i4z3i584c4q2b4b406m4d4u5n5w5n4e5r4y2v21364z213133403n2g4r2p4c4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FM 97.5 Mellow",  
+		"image": "https://www.hostpic.org/images/2206111700020104.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2v594o4s4h5f484c4k454s5t294k574t406v204a494e43494y4n4d444x5j4o2l5t5q5q2x55474g4m4l5a4n474i5a48484n2a4t553d4b4m2n4x5p4j584i4z3i584c4q2b4b406m4d4u5n5w5n4e5r4s2x213a40343z214x2u2p2d4v21643",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FM 99 Active Radio",  
+		"image": "https://www.hostpic.org/images/2206111702320108.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2v594o4s4h5f484c4k454s5t2p546n4d4i5f404a494e43494y4n4d444x5j4o2l5t5q5q2x55474g4m4l5a4n474i5a48484n2a4t553f444j4o4v5c4f5k44414i5a4w264g4o4t5j4e4r5x5x52426t2v2w2w2f423x23394z2n2g4r2p4c4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FM 100.5 News Network",  
+		"image": "https://www.hostpic.org/images/2206111706590097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2v594o4s4h5f484c4k454s5t226x5o4e4z50304a494e43494y4n4d444x5j4o2l5t5q5q2x55474g4m4l5a4n474i5a48484n2a4t5x26464t2q2w5r4w5c464d4g584a464v264n5t4g4t5q5m5m4z534q4w243a4u2x2x22413s2t2m2h474t4e4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FM 107 MET107",  
+		"image": "https://www.hostpic.org/images/2206111709130096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2v594o4s4h5f484c4k454s5t256f4i4k4k5j404a494e43494y4n4d444x5j4o2l5t5q5q2x55474g4m4l5a4n474i5a48484n2a4t5x264d4m2n4x5p4j584i4z3i584c4q2b4b406m4d4u5n5w5n4e5r4s2v23374x2134334x2v2p2d4v21643",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Big Love FM เพชรบุรี",  
+		"image": "https://www.hostpic.org/images/2206111712590112.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2p4j5a4i4n424s2k484i4q4l5q406j544d4s5t2s5c4p4y2d4v233z2v223y5s4k4n5f5q5",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ลูกทุ่งเน็ตเวิร์ก",  
+		"image": "https://www.hostpic.org/images/2111070722400092.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4t2x5e4m2p494k424k4r54654n4x5p4j584i494v5e4v2c4m4p2z5g4p2u5t5s5e4z5p4h4e4l4n5q4w4n4v5h4q2q2c4j4v5j42636e4b4r5c4y5u4k4i4s5w2w2j4k44446k4b416y5z3g464p4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Big FM",  
+		"image": "https://www.hostpic.org/images/2111070722440099.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4t2x5e4m2p494k424k4r54654n4x5p4j584i494v5e4v2c4m4p2z5g4p2k5n5k594s5r254g4e4o5j4w2o4p574q4f494n406u2v594l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ANTENNE BAYERN",  
+		"image": "https://www.hostpic.org/images/2206111716590092.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2q426o4e494q5s224h4k494u5m4n5444494b43324u264e416c4n4h4d4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ROCK ANTENNE",  
+		"image": "https://www.hostpic.org/images/2206111718450103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2q426o4e494q5s224h4k494u5m4n5444494b43324u2n4f4k5i4a4h4s484t5m474",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Powerplay J-Pop",  
+		"image": "https://www.hostpic.org/images/2206111722070100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2t574t4g426s2l4i4i4j4u5s4x5l514n4x5t2h5m4i4y2840333r2v223",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Hits Top40",  
+		"image": "https://www.hostpic.org/images/2206101734150103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u233d4s26343z3w2q2x2m2t26453g4a4u2v294u2d4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "New Country 93",  
+		"image": "https://www.hostpic.org/images/2206101721430089.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2x264y2v2x254v2n2s2u2z224x2f4g4x2t284v214q4p4i4m584m4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "113.fm Lover's Lane",  
+		"image": "https://www.hostpic.org/images/2206101720570106.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u223b4s2y2w234s2u2u2m2x2c463e464n2t2140324",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Classic Rock Florida",  
+		"image": "https://www.hostpic.org/images/2206101720150094.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w2f423v21394s2y2z2m2037463e484t20304q4y5p4a414u5",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "113.fm Route 66",  
+		"image": "https://www.hostpic.org/images/2206101719000097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u223b4s2y2w234s2u2u2m2x2c463e464n2t21403a4",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Country Hits All Day",  
+		"image": "https://www.hostpic.org/images/2206101718140091.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u20374s2z21354s2r2s2o2q264z294g4w2t2a4z214q4p4i4m584m4q2x2w26413p2",
+		"audio": "true",
+		"playInNatPlayer": "true"
+		}
+]
+}

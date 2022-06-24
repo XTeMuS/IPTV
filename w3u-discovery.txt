@@ -1,0 +1,35 @@
+{
+"name": "Discovery",
+"author": "สารคดี สาระความรู้จากทั่วโลก",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=discovery",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "สำรวจโลก",  
+		"image": "https://www.hostpic.org/images/2111070510180096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n423z3d4g4j4i4d4t5d426r5d494z3g4s5d4k4n2n5c4e474v2t234y2r2647424y244v2t243u2y4d353v2m5k45484o4q2t5z236e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "PSI สาระดี",  
+		"image": "https://www.hostpic.org/images/2111070510400100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2r4e5o424745494d45354l584p4r5i4x5t2i4r22633",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Love Nature",
+		"image": "https://www.hostpic.org/images/2111070514190113.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u294j5j4u4r4y3b4f4a4l2m4v5j4364414h4e5e4n5t2p4m444n4l444x4f4o5r4m4742494r2v5q2g4y2s4e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Hunt Channel (1)",  
+		"image": "https://www.hostpic.org/images/2111070516100107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u274v2y2x23433v2z2x2w224q416l5m274h5l49423r2f4z5e4w2j3v3o2k4w3i3347474z29403o2w2u2r5k4d4d416s2e4u2l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Hunt Channel (2)",  
+		"image": "https://www.hostpic.org/images/2111070516100107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u274v2y2x23433v2z2x2w224q416l5m274h5l49423r2f4z5e4w2j3v3o2k4w3i3347474z29403o2w2u226o4a4b4o5p4m2p4p25454v2v5x5e4j4z3k454s413",
+		"playInNatPlayer": "true"
+		}
+]
+}

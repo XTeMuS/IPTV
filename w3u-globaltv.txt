@@ -1,0 +1,270 @@
+{
+"name": "Global TV",
+"author": "รับชมทีวีจากทุกประเทศทั่วโลก",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=globaltv",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "abc News",  
+		"image": "https://www.hostpic.org/images/2111070607210100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5l4n4s4i5k4l4p2l4k4s5x4w5t5m274s5k414a4d414v5l4e4f4v2u264y2u2o54454x2a474v2w2z294w263a44484p26434x2j5c4f4e4v2647494j5t2i4r22633",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ALJAZEERA",  
+		"image": "https://www.hostpic.org/images/2111070617330100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4y3e4d4m4l2r4l5a434j5a494z3e4j5r464a434l4e4n4v283t4h3p26434z3g464p4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ALJAZEERA",  
+		"image": "https://www.hostpic.org/images/2111070617330100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4y3e4d4m4l2r4l5a434j5a494z3e4j5r464a434l4e4n4v283t4h3p2r5s5h58436q2g4y2s4e493h3y3z4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "BBC World News",  
+		"image": "https://www.hostpic.org/images/2111070601280088.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w264x2v2x2a433n2s2u2t224y2b4a4n2b3s5l4y5c4j4k44494b464v4i4x5k46454u4m5p4k5r2a3f484w5k4e4k4t3c373a3n4j4y5k4m5z3n2d4r5b4j5v4r2d484s453",
+		"playInNatPlayer": "true"
+		},{
+		"name": "BBC World News",  
+		"image": "https://www.hostpic.org/images/2111070601280088.png",  
+		"url": "http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Bloomberg",  
+		"image": "https://www.hostpic.org/images/2111070603270087.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4t5o4g474l4n4l5941626m254o584r584e4q4m5b4v2h4d4n424t4l454l4l544t5i484j4s275t3x3y3y3b3s3q3l2q4p5q4p5r5e4d4e5s234u2s3f426p4c484t2s325w3s3343414r234p2s264j4r5s4e4u2q5x2m4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Bloomberg Asia",  
+		"image": "https://www.hostpic.org/images/2111070604010102.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4t5o4g47414k4u5n406268494e5q4y5t2c4c4w594a4f4u2m4y5k4o2o5f5w5n4r5t4p2l4c426t2a4o424t283b414i4u5d4u53453o315x3v5t4o4l2m4y3w3o2s4i4q5x4h4343404q3u5p4l4a4c434b3t3w335n4n4m4l2t244w26434p234p5g406c4r2d484s453",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CBSN",  
+		"image": "https://www.hostpic.org/images/2206122105500105.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4u216q464g4l4n424b4x5v5n2h444n4q584u454z5t2p4b4o463o5c433q5y5x5j4y523q2u2a4k5p4n4d406p49474l2g4o5u2j5t514h4e5g4m5b4r2e4m5r4w2c4v2a3l4v3k3u4m4c5y2j4t20343y264w2w2l4e5p4l484i4q2t5z236e433c335t3",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CNN",  
+		"image": "https://www.hostpic.org/images/2111070605060111.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5k4n4t2g5k4f4c4e4o4l5q4w5j5k4d4s5l4f5j4q2p224e4b4p2r444s5r4n4w5l5z3q406m4f4t2a4x5j4w2l4e5k4a49454n406v2y5u514t4p5g4x5r444x2b4v2x4w203r2e5y2q26424o5p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CNN",  
+		"image": "https://www.hostpic.org/images/2111070605060111.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5k4n4t2g5k4f4c4e4o4l5q4w5j5k4d4s5l4f5j4q2p224e4b4p2r444s5r4n4w5l5z3q406m4f4t2a4x5j4w2o4p574q4f494n406747484w2s2162344v244r254v2x2e4u2g464t4y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CNN indonesia",  
+		"image": "https://www.hostpic.org/images/2111070605390099.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4z394f4h494i4k5n4w5n5j4d4e5t2h5m4i4n2t5g4v484b4h4t5v2l4v5n5p513i5i4h4r4t444p4m4h4p5t244b4l4i4r5k4r516k43406w284z223x2e423z2w25324h5z2y2a42414r2e5n4f4c4l4p5s2m4z2y523",
+		"playInNatPlayer": "true"
+		},{
+		"name": "DW News",  
+		"image": "https://www.hostpic.org/images/2111070615350100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5t4a4l4h5p4l4l45454t5x26484m254o584r584e4q4m5b4v2h4d4n424g4e41614p5c41694q2x2v274z223y264t254q4j4o4y5d4j5v5p2s234u2n5l4945456t2m4u2t4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Euronews",  
+		"image": "https://www.hostpic.org/images/2202120547020107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5v2m4o4t5o4d454540306m484s5m274p5m4z5b4b4i4w5l4t4p2m484z5v2o47414q544y5o484p4u2d4843333j5845444v254i543b4f4s2s21484a4x2u254e484a4r2c484j594s264f5f5y2i554u2b4x254b4u4q4s5k464q4j4k3p5u4n554w2z2w423j4f4t4m365b4e484l3t3w5e4p2n516r5m4g564l4c4l4h5b4n4f4z3j4s2o4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Fox News",  
+		"image": "https://www.hostpic.org/images/2111070602550109.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5r4s4s4g5e424h4e494s5t2u5r5m494z384p584i414q5x4e474u2h4k5s4p2q5q5w5q2r5d4p4c4u284u2x2y284x2v2q214p4z5s4l5q514i4r5c4q5s2o4g4w5p4t4q2l444y5s4740604q5u20603",
+		"playInNatPlayer": "true"
+		},{
+		"name": "France 24",  
+		"image": "https://www.hostpic.org/images/2111070609160087.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d484y2h4k4w5r2a4p214f4h5l4j5r58484z3l4j5r4s284t5q4w2f4h4p4k5v2s2843424v2a4r2d3x2z2h5f3r374p4j304f3g3r334l4j516k494v5t2r5y2q4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "PIX 11",  
+		"image": "https://www.hostpic.org/images/2206122124520096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5l4n4s4i5k4l4p2l4k4s5x4w5t5m274s5k414a4d414v5l4e4f4v203b443s2e4k584y234z25433z2m594135374y2w2t244x2b443f474s2v2h5d444t2i4r22633c3b3y3p3",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Reuters",  
+		"image": "https://www.hostpic.org/images/2206122004390097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u206b4u4s4i5o4k4o2i49416s4n506j4i4s5u4z3w2q2l406t2p4f4d4r414v4n406q5z3n416r2j4j48476i4i4r4x5s2e4u2l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TRT World",  
+		"image": "https://www.hostpic.org/images/2202120726090103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4u2s4v5q4o4i4i4g4k5u2u5r5m494z3r4w5r4r234w5k4v2n4q4q2s594l426j5v5p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TV5Monde",  
+		"image": "https://www.hostpic.org/images/2206130516020097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2k5x2z23384j5b4b4e474746484q2u2d42394e4q26424c4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TYT",  
+		"image": "https://www.hostpic.org/images/2206122019210096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226v4t4t2v5l4c4o4l2p4z5u2j5v514b4m5t2y5t4s2d4i5q4t484q4p2s5z2n4e4h4l4t315",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Cheddar",  
+		"image": "https://www.hostpic.org/images/2206122130470107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4z3949474i4n4069426r534q2g5m4r5u28424v5u2i4h4c48436u2f494z59463n4u3p3",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Dubai ONE",  
+		"image": "https://www.hostpic.org/images/2206122036070098.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5j4i4m4r5s4d4f4m274k5m444v514i4k5m4r5m4h4f434a4o4g4v27406a434r5t5r58424n4g4g4j4g4a4u4a4e5f4g4h454q2z5s406n514h4z3q4r5g4h4n2k5f4u4h4j4f4o5r4m4h5g524z234s2r2v2v244j403t4949393t3m3",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ET Live",  
+		"image": "https://www.hostpic.org/images/2206122014320100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5q4l4h4z5b4m2g45484p594y5j534f4e5e4j5s2b41406r4l4s4u264h5r434j506m574k5j4p2a4m4v5t2d4u4v5t2e444e4d4m5d41626z30324t2r5y2q4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CCTV 4",  
+		"image": "https://www.hostpic.org/images/2111070618060102.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2y2f4s2y2z264s2q2u2w2q2a4w2g474w203a4v214r3l3o375u253z243z2b453r2641434t274r2u2x2x274w2z21374w2q2q294i4k5d46644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CCTV 5+",  
+		"image": "https://www.hostpic.org/images/2111070618590097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2y2f4s2y2z264s2q2u2w2q2a4w2g474w203a4v214r3l3o375u253z243z2b453r2641434t274r2u2x2x274w2z21374y2y2q294i4k5d46644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CCTV 7",  
+		"image": "https://www.hostpic.org/images/2111070619180107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2y2f4s2y2z264s2q2u2w2q2a4w2g474w203a4v214r3l3o375u253z243z2b453r2641434t274r2u2x2x274w2z21374w2t2q294i4k5d46644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CCTV 9",  
+		"image": "https://www.hostpic.org/images/2111070619400107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2y2f4s2y2z264s2q2u2w2q2a4w2g474w203a4v214r3l3o375u253z243z2b453r2641434t274r2u2x2x274w2z21374w2v2q294i4k5d46644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CCTV 10",  
+		"image": "https://www.hostpic.org/images/2111070620010097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2y2f4s2y2z264s2q2u2w2q29443g474w203a4v214r3l3o375u253z243z2b453r2641434t274r2u2x2x274w2z21374w2w2q294i4k5d46644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Arirang",  
+		"image": "https://www.hostpic.org/images/2111070620430100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u284v5a4l4h4z5b4n264k4i4k5u2l5x5d4q2i5b4l5c4o4l4q5r4e4p2m484z5v23406n5v544t5b424w2a4q5t2s4l4m5i4z244i4d4y594w5p5z3t2g5f404q4i494t5u2p4f494s4r5h4l42604q5u20603",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Channel News ASIA",  
+		"image": "https://www.hostpic.org/images/2111070621160097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2b484b4y294w5k4k4f4v264y533k54434g4s5s4i5d4n4f4v5r4v2h4d4n42433x2e444i5t234x28423x2o5y20394i584t244s203l5b4f4d464y274c4g594a4n2q5l4d484w42484u2f494z594",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Channel News ASIA",  
+		"image": "https://www.hostpic.org/images/2111070621160097.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5w2e4x2e5p4f4m4c4z2i5q4d4k5m274p5m4z5b4b4i4w5l4t4p2m484z5v2x2d4a4348454s2w2c42384c413z2e5b434v214w2c4d4l5f4v2a47413j594745444g4n474d4r4e5y2o2v554y5z2i4c3t3t3",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NHK World Japan",  
+		"image": "https://www.hostpic.org/images/2111070622190103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2w5e4k4v4y3w494o284g4z5b4x5v5g4q2e5i4f5k4649476c4d4p2m484z5v2y226m536w2o5p494m4p4t523w4i4m5m4o2j4c45456k4r516k4q2q5y2z533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NHK World Japan",  
+		"image": "https://www.hostpic.org/images/2111070622190103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256b4u2o4p574q4p2c4d426d4545614o4g5f4n5l4c4n216t4w2h4g4e404v4h406q5h5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CBS Live (KR)",  
+		"image": "https://www.hostpic.org/images/2111070625200092.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2a4k5p4u2k4m5s464p274n4j5c4w54434j4q5u2h594o4l2t5g4v484v264h5r4n2u5n5z58414n4n4p4c4j5j4w2g4e5p434448474h5u2v594l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "EBS 1",  
+		"image": "https://www.hostpic.org/images/2111070626120100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2c4k5p4o4m4e5f4j4p25464z5u2l5x5m2f4v5u2l5p4k4l4v5b4w444u484l594f4r5q526j4i5r29484k4r5i4y4o4g5v2e4q234c416m4t5u594n4x56416w223u254x213r2y2y294u2f494z594",
+		"playInNatPlayer": "true"
+		},{
+		"name": "EBS 2",  
+		"image": "https://www.hostpic.org/images/2111070626410100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2c4k5p4o4m4e5f4j4p25464z5u2l5x5m2f4v5533443w2t244c4b4m4y294g5l4b4u536t56424a444k4g4u5v4p4b424j4o2j4c45456k4r516k4q2q5y2z533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "EBS Plus 1",  
+		"image": "https://www.hostpic.org/images/2111070627260101.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2c4k5p4o4m4e5f4j4p25464z5u2l5x5m2f4v5533443w2t244n4l4o4r4s2z59444u5j5x5w234s2e4u2r4j584l4d4x5z2p2r2b4r2w5k4j576c4d4w5r404k4w2l4d4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "EBS Plus 2",  
+		"image": "https://www.hostpic.org/images/2111070627470100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2c4k5p4o4m4e5f4j4p25464z5u2l5x5m2f4v5533443w2t244n4l4o4r4t2z59444u5j5x5w234s2e4u2r4j584l4d4x5z2p2r2b4r2w5k4j576c4d4w5r404k4w2l4d4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "GCN (KR)",  
+		"image": "https://www.hostpic.org/images/2111070629010087.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4r5s4e4j4s5w2t2o2d454u5l4r5w574g4s594f5j4w2m2s5r4c474m4p2i5n4o2t5w504f4o5q484i4m484y2w2f4g5k4c4i4z3c4p5f4q55434c4y5l4p5j4e4j416t2m4u2t4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Metro TV",  
+		"image": "https://www.hostpic.org/images/2111070630370116.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2h574a4f4p4h4v5s4r5x5e4q2g5m4r5u2a4d4j5c4d4q2u4c4j5d4h454p534u294j494d3k36674j4w4l4f4l4c4w2b395b3j536k4j4x4j4f5w463p2v3o4u484t48404d4g4j5g5p584g4a444j4q4n5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CGTN (1)",  
+		"image": "https://www.hostpic.org/images/2111070631150098.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4z39484n4e4q2j5n4v554p2s214v214n4n4f4o564i4h4c48436u2f494z594",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CGTN (2)",  
+		"image": "https://www.hostpic.org/images/2111070631150098.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2w5b4w4r4z39484n4e4q2j5n4v554i494w5m4z5p4845444j4i4p4d4q2k5m494u5n5w5b42474a4r4l434k4e4v4w5s2e4u2l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MV ลาว (1)",  
+		"image": "https://www.hostpic.org/images/2111070631590104.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k414k4v2j4c4u2q3t3o383y4u2l426w5i544s534u213v2y5t2p4k4e5v4d4c4j4o424l49436w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MV ลาว (2)",  
+		"image": "https://www.hostpic.org/images/2111070631590104.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w2k3y3j3k4r3o216y5v584g5h42423x264m4w2o4p574q4f494n406u2v594l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MVTV Myanmar (1)",  
+		"image": "https://www.hostpic.org/images/2111070632350102.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k414k4v2j4c4u2q3t3p3p2y5s4k4n5f5q52464y2r2n4u2y5i4a4x4p5f4k4n4m2h474t4e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MVTV Myanmar (2)",  
+		"image": "https://www.hostpic.org/images/2111070632350102.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w2k3y3k314r4m406j5e5g4e5z2t2v2n454m4l49426i4a4m4k4q2t5z236e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "FashionTV",  
+		"image": "https://www.hostpic.org/images/2111070634520090.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4k5s2s4s4v5b424g494i4n5u216t5n2a4e5q4m5g4k4e416t4w2m4s4l4k594f454h5l5o4t5f4f4g4q42654w4x254u2r2t2v2v294x28444d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "World Fashion Channel",  
+		"image": "https://www.hostpic.org/images/2202120725270108.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256c4c4h4r5q4n2g45484p594l5m5e4q2v5s414a494e444u4f464h4h4z5v474k514t5f4g5t4f4g4q426s2m4z2y523",
+		"playInNatPlayer": "true"
+		},{
+		"name": "A3 Bikini",  
+		"image": "https://www.hostpic.org/images/2206122028320103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u24694n4a4m5h4a4h494i4l5s456x5i4f4z3r4j5j4a4f406k4e474h44414b4h4v514w5n4x59444k4u2k5f4k4h4r5f4f484k4r4v5q4t55414v2f5g4p5g4j49444n4l444x4f4o5r4m444r544o4b4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CHIVE TV",  
+		"image": "https://www.hostpic.org/images/2111070637280107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5s2j4r4v5a4f4p234j4t5v2k506f454h5a4f5q4p4n294b4f4s2a494a4x2547414w3r234s2r2u2a444j403t494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CHIVE TV",  
+		"image": "https://www.hostpic.org/images/2111070637280107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5s2j4r4v5a4f4p234j4t5v2k506f454h5a4f5q4p4n294b4f4s2a494a4x2547414w3r234s2r2u2f4r5d4h4v2g5s2e4u2l403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "People Are Awesome",  
+		"image": "https://www.hostpic.org/images/2206122000020101.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2s5r4k4h4r5r2h484f4k4s5d4j506545406c4x5m4i45424w2u2o4r4p2y594f416z5r5a414r4o4p4j444q4v4v2t5i424s4c4d4z5s444v5r2p494",
+		"playInNatPlayer": "true"
+		}
+]
+}

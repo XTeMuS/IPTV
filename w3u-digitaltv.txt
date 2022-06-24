@@ -1,0 +1,209 @@
+{
+"name": "Digital TV",
+"author": "ทีวีดิจิทัลของไทย",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=digitaltv",
+"stations": [
+		{
+		"name": "ททบ.5 (1)",  
+		"image": "https://www.hostpic.org/images/2111062217180099.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f423",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ททบ.5 (2)",  
+		"image": "https://www.hostpic.org/images/2111062217180099.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u22694u2k4m5s464s2m2n4h5m4x5x5b4q2g5m4r5u2h49436c4w2t2y2u234y214l5m564p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NBT (1)",  
+		"image": "https://www.hostpic.org/images/2111062218180101.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f4y2s2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NBT (2)",  
+		"image": "https://www.hostpic.org/images/2111062218180101.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4r5s4e4u2t5o454p274j424s4q5g4p213440314j4e4m4m5u2c4b4x224v4u2l4m5u50464n5p4h4i4j4r5p4t4u2q5x2m4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Thai PBS (1)",
+		"image": "https://www.hostpic.org/images/2111062218520096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f4y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Thai PBS (2)",
+		"image": "https://www.hostpic.org/images/2111062218520096.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226e4a4h4t584k4o2c4d426d444l544i4z39436r4a414z5i4v264n4g424k4b446j504j4r554s4j4g416q484x21423p2j4n2d4u5c4n566m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ALTV (1)",  
+		"image": "https://www.hostpic.org/images/2111062219250110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5i4l4p4m2o426v2u5r5m494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ALTV (2)",  
+		"image": "https://www.hostpic.org/images/2111062219250110.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226e4a4h4t584k4o2l4e446q4l5q5m274h5l40494u4k4m584r4e4u264u5l4p2u5n5z58424k4f484w4u5f4s4s4z3j4s2o4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TPTV (1)",
+		"image": "https://www.hostpic.org/images/2111062232560093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4t2i5a48484m2d414h4y526m4q2g5m4r553x2s284u2l4c4u48464v2z274g524o2l5a4t203s2o5z2e4d4y394r2y264p2644394j5n2k4p58436j4e4j416t2m4u2t4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TPTV (2)",
+		"image": "https://www.hostpic.org/images/2111062232560093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4w5q4j48414h424o4j506c4d4e5k4j5l4p4m2o5m4v2n4g4q2r5h4o4n5x504j4r554s4j4g416q4v2l444r4x2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TNN (1)",
+		"image": "https://www.hostpic.org/images/2111062233560105.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2t4m4r5w2t2q2g4g4h5x4u5r5j4o4z3k454s413",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TNN (2)",
+		"image": "https://www.hostpic.org/images/2111062233560105.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2s4r5k4r2v2n2k4s59476u594n4x5t2r5y2q4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "JKN 18 (1)",
+		"image": "https://www.hostpic.org/images/2111062236020100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f403r2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "JKN 18 (2)",
+		"image": "https://www.hostpic.org/images/2111062236020100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c4z25433c4e49443d4h5z224t2s2948423o5c4v2u25494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Nation TV (1)",
+		"image": "https://www.hostpic.org/images/2111062237230104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f403y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Nation TV (2)",
+		"image": "https://www.hostpic.org/images/2111062237230104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2n494x5f4g4h4n2k4s59476u594n4x5t2r5y2q4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Workpoint (1)",
+		"image": "https://www.hostpic.org/images/2111062238070104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2w4n4v5h4h4i494i406s44654g4g4e5w4q5g4o4k434k403o443",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Workpoint (2)",
+		"image": "https://www.hostpic.org/images/2111062238070104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2w4n4v5h4h4i494i406s44654g4g4e5w4q5g4o4k434k403o443",
+		"playInNatPlayer": "true"
+		},{
+		"name": "True4u (1)",
+		"image": "https://www.hostpic.org/images/2111062238370104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2t4q4y5b4t2o4n274o5t4w5t5j4q2q5y2z533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "True4u (2)",
+		"image": "https://www.hostpic.org/images/2111062238370104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2s4v5r464v2l4r2j5g436w5b4n4z3k454s413",
+		"playInNatPlayer": "true"
+		},{
+		"name": "GMM25 (1)",
+		"image": "https://www.hostpic.org/images/2111062239140100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f4x2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "GMM25 (2)",
+		"image": "https://www.hostpic.org/images/2111062239140100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2g4l4q5949444e4i4l5k454y5c45426j4n5q4p4m2u5y2u4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CH8 (1)",
+		"image": "https://www.hostpic.org/images/2111062239520099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f403u2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CH8 (2)",
+		"image": "https://www.hostpic.org/images/2111062239520099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2b4l523o26484p4u5j41644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Mono 29 (1)",
+		"image": "https://www.hostpic.org/images/2111062240200111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f403z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Mono 29 (2)",
+		"image": "https://www.hostpic.org/images/2111062240200111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d434r234e4b4q274a4k54434j4z3r4m55323s294y2w2k3r3l3y4y2z2h5q4t4q3e5t2r233v225t2m4n4r5l4r20384g4z5747464w2s215j304q4p4i4m584m4q2b4b406m4d4u5n5w5n4e5r4s20323e43343y224u2y2p2d4v21643",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Mcot HD (1)",
+		"image": "https://www.hostpic.org/images/2111062240510091.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f463",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Mcot HD (2)",
+		"image": "https://www.hostpic.org/images/2111062240510091.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u22694u2k4m5s464s2m2n4h5m4x5x5b4q2g5m4r5u2h49436c4w2t2y2u234y214l5m5a4p2s5v2o433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "One31 (1)",
+		"image": "https://www.hostpic.org/images/2111062241220111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2o4m4i5e454q234c416m4t516m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "One31 (2)",
+		"image": "https://www.hostpic.org/images/2111062241220111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g4u2y2w2z264",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Thairath TV (1)",
+		"image": "https://www.hostpic.org/images/2111062241570104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f40303",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Thairath TV (2)",
+		"image": "https://www.hostpic.org/images/2111062241570104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g4u2y2w2y2e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "3HD (1)",
+		"image": "https://www.hostpic.org/images/2111062242270094.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "3HD (2)",
+		"image": "https://www.hostpic.org/images/2111062242270094.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t203g4h5t2h4f414t4s5h41626m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Amarin TV (1)",
+		"image": "https://www.hostpic.org/images/2111062242580102.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f4z2x2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Amarin TV (2)",
+		"image": "https://www.hostpic.org/images/2111062242580102.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2a4l4e5o4a4h4848434o4u5j5p4g4m5q4y5t2i4r22633",
+		"playInNatPlayer": "true"
+		},{
+		"name": "7HD (1)",
+		"image": "https://www.hostpic.org/images/2111062243270111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4y39454h4l2c436b444l584z2z3a4t5k4s2c4q5t4e464g4y2y5c4p255m4c5w274s2j4t2k494r453",
+		"playInNatPlayer": "true"
+		},{
+		"name": "7HD (2)",
+		"image": "https://www.hostpic.org/images/2111062243270111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t243g4h5t2h4f414t4s5h41626m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "PPTV (1)",
+		"image": "https://www.hostpic.org/images/2111062244100099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2p4o4x5s49474n2k4s59476u594n4x5t2r5y2q4w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "PPTV (2)",
+		"image": "https://www.hostpic.org/images/2111062244100099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g4u2y2w2x2f4",
+		"playInNatPlayer": "true"
+		}
+	]
+}

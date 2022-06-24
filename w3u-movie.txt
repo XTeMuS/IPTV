@@ -1,0 +1,106 @@
+{
+"name": "World Movie",
+"author": "ช่องภาพยนตร์ สำหรับคอหนัง",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=movie",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "CTB",
+		"image": "https://www.hostpic.org/images/2111070544570096.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2t4r5m4v2k4s5d4a4h4m2d4u5u226q5y2t2a4y274u2c3o3n4u2g3r3e3q2v5k43476q5m5m4z5q2g4y2s4e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "CTB",
+		"image": "https://www.hostpic.org/images/2111070544570096.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4t2x5e4m2p494k424k4x5p594i4z3g4s5t2p48444e3x393v2a335e3p2y5q5e5s4r5d4m4r4t2v5x2u443",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Channel8",
+		"image": "https://www.hostpic.org/images/2111070545320118.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u203a494z2032423y2u224a474534416k4m4i584r5j4k434s5t2n484s4134453t2b414g5b4b4r264f4335494h4t4r5h4d4c4j4o424l49436w2",
+		"playInNatPlayer": "true"
+		},{ 
+		"name": "Mix Major Channel",
+		"image": "https://www.hostpic.org/images/2111070547070115.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w2k3h4r4e5l434s5t5v5p2y5o4l4c484v55443y214m4o26484p4u5j4u5r5j4o4c5u4440313v2b4w21303u2g464t4y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TVB Thai",
+		"image": "https://www.hostpic.org/images/2111070548090117.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w2r3g3l4g5l4346545z3m4z5m48484k4h513z2w2t5t2h4f414t4s5h41626m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TVB Thai",
+		"image": "https://www.hostpic.org/images/2111070548090117.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k414t3e3z3t4f3w2m4l4c4r563q385k4c5f3n43483d3t344p4m4h4p5t2h4f414t4s5h41626m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MVTV Series",
+		"image": "https://www.hostpic.org/images/2206092014060089.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444k4v4n4u4o2y5d4k4r5j5w5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MVTV Series",
+		"image": "https://www.hostpic.org/images/2206092014060089.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g416y2w2k3y32425d4k4r5j5w5p2y5o4l4c484v55443y214m4o2j4c45456k4r516k4q2q5y2z533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Zee หนัง",
+		"image": "https://www.hostpic.org/images/2111070549160099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2z4d4i5k424h474r2w5k4j576c4d4w5r404k4w2l4d4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Mangkorn",
+		"image": "https://www.hostpic.org/images/2206130503400098.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c4z294d4d4f4a443d4h5z224t2o274c494n5e4u2x2h543",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Cool Channel",
+		"image": "https://www.hostpic.org/images/2206130508500101.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2g5s25494w2n5y2b4e474746484u2y28423c4m5p2z29494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Fwmov",
+		"image": "https://www.hostpic.org/images/2111070550380089.png",
+		"url": "https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Fwsov",
+		"image": "https://www.hostpic.org/images/2111070551060118.png",
+		"url": "https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8",
+		"playInNatPlayer": "true"
+		},{
+		"name": "HBO",
+		"image": "https://www.hostpic.org/images/2111070553010103.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2g4y5w2y2y224s244i4d423c4w2e474n2r4i59434u2d424w5u2p4f494s4r5h4l42604q5u20603",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Amercan Horrors",
+		"image": "https://www.hostpic.org/images/2111070557070097.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w2d4u2v2x28423n2s2w2132423c4g4p213440314j4e4m4m5u2w3n4q484g5l4r254h5l5o4t5f4f4g4q42654w4x23433r2r2p2w274z2d444d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Thrill",
+		"image": "https://www.hostpic.org/images/2111070558120095.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2z2b4s2y2y274s2x2u2m2x254v2z556i413i5u414q4s2j484z2w2c4m474k5w4o2v554y5z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Cinemax",
+		"image": "https://www.hostpic.org/images/2202182134190111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2g4y5w2y2y224s244i4d423c4w2e474n2g4m5t4j5u28494v5c4m444w4q2v5k43476q5m5m4z5q2g4y2s4e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Cinemax",
+		"image": "https://www.hostpic.org/images/2202182134190111.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4g5a4f4p264k406o4u5j5p4q2r5c4y5u2d444i5w2w264h4h4k5l43466d5l5f4y5q2m4k4g4u5t2p4k4e5v4d4c4j4o424l49436w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "LostFilm TV",
+		"image": "https://www.hostpic.org/images/2206122043080090.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4u216q464g4l4n424b4x5v5n2h444n4q584u454z5t2p4b4o463o5c433q5y5x5j4y523q2u2t484s2c494x59424m4k4q206u454l5f4i4x5c4s5r4s2r2d433x2s2v2c4t5c4746604q5u20603",
+		"playInNatPlayer": "true"
+		}
+
+]
+}

@@ -1,0 +1,26 @@
+{
+"name": "Music",
+"author": "ฟังเพลงสดๆ จากช่องเพลง",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=music",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "Retro Music TV",  
+		"image": "https://www.hostpic.org/images/2111070541050103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u203f4w2f4x274c42403o284d4a44416k4m4i584r5j4k434s5t2n484s4q2x5d4m406t5x5p424n4g4g4j4g4o4e4s4v5l4l4p4q2q2z5l4r5u5n274l5s4s5i4h49406r484q433y25413v2a48434t2e564y203v264u2x2u2q5x2m4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Music for you",  
+		"image": "https://www.hostpic.org/images/2111070542140108.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2x264x2v2x264y2n2t2s2v22443f4g4p2u224y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "รวมเพลงเพราะๆ",  
+		"image": "https://www.hostpic.org/images/2206091727120085.png",  
+		"url": "https://www.youtube.com/watch?v=iqYjw2ovRGE&list=PLtCnQhzK1zpnmNJHrefgvRa9fVItELtXH",
+		"playInNatPlayer": "true"
+		}
+]
+
+}

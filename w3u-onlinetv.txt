@@ -1,0 +1,250 @@
+{
+"name": "Online TV",
+"author": "รวมทีวีดาวเทียมและออนไลน์ของไทย",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=onlinetv",
+"stations": [
+		{
+		"name": "Top News (1)",
+		"image": "https://www.hostpic.org/images/2111062258060098.png",             
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4z3q4g4j4e49436r444l5f4q2x5f414f4h4j444r4o4j4m48426r4o2v554y5z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Top News (2)",
+		"image": "https://www.hostpic.org/images/2111062258060098.png",             
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f413r2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Voice TV (1)",
+		"image": "https://www.hostpic.org/images/2111062259170100.png",             
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4v2f4y59494c4c4g424b4x5v5n2u3s5g4h5c4q2o375s2p3c4u48414g4m4v5q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Voice TV (2)",
+		"image": "https://www.hostpic.org/images/2111062259170100.png",             
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4v2f4y59494c4c4g424b4x5v5n2u3s5g4h5c4q2o375s2p3c4u48414g4m4v5q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Bluesky (1)",
+		"image": "https://www.hostpic.org/images/2111062300090102.png",             
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2b494a4y2a4z22403v284c443d444j4o4v5c4f5k4h4f4k5i4v2h4d4n424a4e436j5w5e44674b484l4w5b4l4v2f5i4m484j4f456b4q5j5e4i4i5j414a4d4l4v5i4l4c4r4n414l4t236a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Bluesky (2)",
+		"image": "https://www.hostpic.org/images/2111062300090102.png",             
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2b494a4y2a4z22403v284c443d444j4o4v5c4f5k4h4f4k5i4v2h4d4n424a4e436j5w5e44674b484l4w5b4l4v2f5i4m484j4f456b4q5j5e4i4i5j414a4d4l4v5i4l4c4r4n414l4t236a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NEWS1 (1)",
+		"image": "https://www.hostpic.org/images/2111062300580115.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2l4n5t4s4x2z3i4a4p454t284u2l5x5d4r2w5r4w5c464d444l4e4q4r4s2e5g4b444r544o4b4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NEWS1 (2)",
+		"image": "https://www.hostpic.org/images/2111062300580115.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u216b4r4u4i5o4q2p2j4o4y5d4j5v5j4n4p5t2h5m4i4n206r4r48494g424m47456x52424n5d4p2k4y23623",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Wellness Markshop",
+		"image": "https://www.hostpic.org/images/2111062305160092.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4t2x5e4m2p494k424k4r54654n4x5p4j584i494v5e4v2c4m4p2z5g4p256n53644x584q2u4g48674r4c404m4d444p4g4p5r42644d4v2y533",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ถูกดีทีวี (1)",
+		"image": "https://www.hostpic.org/images/2111062306130113.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w2q394h4u5n4d444x5x5l4k554g464y2c4u2p4v2t5i424s4c4d4z5s444v5r2p494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ถูกดีทีวี (2)",
+		"image": "https://www.hostpic.org/images/2111062306130113.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4j494e5s244i4d4r206n4x5t54494i5r406t2d4k4u5j4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MV Mall",
+		"image": "https://www.hostpic.org/images/2205302235390080.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2h5l4g4t2p4j416u2l5x5d4r2h5m4g584h4c406m4d4q2s4p424z2t2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MVTV FIVE (1)",
+		"image": "https://www.hostpic.org/images/2111062307200093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444k4v4n4u424n5n4f4n5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "MVTV FIVE (2)",
+		"image": "https://www.hostpic.org/images/2111062307200093.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g416z2w2k3y3r35533v244x5x5l4k554g4642384u2p4v2t5i424s4c4d4z5s444v5r2p494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "V2H2",
+		"image": "https://www.hostpic.org/images/2111062309010098.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444t4z2b4y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "V2H8",
+		"image": "https://www.hostpic.org/images/2206082017470099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g416y2w2p4y2b4b4u2l426w5i544s534u213v2y5t2p4k4e5v4d4c4j4o424l49436w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "V2H9",
+		"image": "https://www.hostpic.org/images/2111062309480096.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k414t4v28444x3z2f353p2y5s4k4n5f5q52464y2r2n4u2l5e4u4m4o5i4a4m4k43436239494o2u23423a4z2r2d484s453",
+		"playInNatPlayer": "true"
+		},{
+		"name": "รักแท้ทีวี (1)",
+		"image": "https://www.hostpic.org/images/2202220540480099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4j494e5s244i4d4r2i594w52654i4k5w224v2r28416k4l4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "รักแท้ทีวี (2)",
+		"image": "https://www.hostpic.org/images/2202220540480099.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w293d3l335h3o3t404w5n4x59444k464d4w2x2o4049494o4e4f4s5h41626z3r42443b403z2t2c4z213r2u2g464t4y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ไทบ้าน ทีวี (1)",
+		"image": "https://www.hostpic.org/images/2111062311220098.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444r4h444h454g5m4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ไทบ้าน ทีวี (2)",
+		"image": "https://www.hostpic.org/images/2111062311220098.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g416y2w2r3g444o5a434w504w5n4x59444k4649403x2o4049494o4e4f4s5h41626z3r42423a433x2s2e4y253r2u2g464t4y2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "69 TV (1)",
+		"image": "https://www.hostpic.org/images/2111062311570109.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444k2e4r2l254b4l23474r3i5r2s36403k233e4j2e4w2q384x2g214z2t3d464v32403q343b4k2a4o2u39453g24344s3d4q2v3g594g2h5z2g2c4v2v38463l29423e284o2h2i543v3f4x2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "69 TV (2)",
+		"image": "https://www.hostpic.org/images/2111062311570109.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g41623w2k3d474o594l3w5q5m5h4k5q2m4r4p4n574m4744403p2j4n274o5t4w5t5c4d4w5r4d5u413r2b4x243z253w294u2f494z594",
+		"playInNatPlayer": "true"
+		},{
+		"name": "HAPPY TV (1)",
+		"image": "https://www.hostpic.org/images/2111062312380108.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444f4a4j4o4s404s4o4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "HAPPY TV (2)",
+		"image": "https://www.hostpic.org/images/2111062312380108.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g416y2w2f394j4v5x4o216y5v584g5h424y21364m4w2b4l5r4f4e4c4d4z5s4h556s203241394y2w2u2c4t2m4u2t4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ลูกทุ่ง TVHD",
+		"image": "https://www.hostpic.org/images/2111062313380100.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2h5l4g4t2p4j416u2l5x5d4r2h5m4g584h4c406m4d4q2s4p424y2t2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ลั่นทุ่งทีวี",
+		"image": "https://www.hostpic.org/images/2206180525350110.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2l5a48494a4b4b403b45494245434x254e4k5l564u29433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Topline",
+		"image": "https://www.hostpic.org/images/2206180533160094.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c4y2y2y21374w2d44324135484p284m5x2f4d4p2t2e523",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Thai Variety",
+		"image": "https://www.hostpic.org/images/2111062314220094.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k414t4v28444x3z2f3x2s214r4m406j5e5g4e5v2x2v2n454m4l49426i4a4m4k4q2t5z236e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "สยามแชนแนล",
+		"image": "https://www.hostpic.org/images/2111062315080092.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444q4i444l464n594g4w5j5p5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ลิโด้แชนแนล",
+		"image": "https://www.hostpic.org/images/2111062316060106.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444j4i474n464n594g4w5j5p5f4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "สกาล่าแชนแนล",
+		"image": "https://www.hostpic.org/images/2111062316370097.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444q4a4e494f4g5b4a4j5s5r584r5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ราม่าแชนแนล",
+		"image": "https://www.hostpic.org/images/2111062317410096.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444p4a4g49464n594g4w5j5p5",
+		"playInNatPlayer": "true"
+		},{ 
+		"name": "มูเตลู",
+		"image": "https://www.hostpic.org/images/2206082031360073.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k414t4v28444x3z2f3x2s214r4m406j5e5g4e5v2x2v2n454m4l49426i4a4m4k4q2t5z236e4",
+		"playInNatPlayer": "true"
+		},{ 
+		"name": "White Channel",
+		"image": "https://www.hostpic.org/images/2111062318260092.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2q476j4c4t2g5a4f4p2m4d4v5k4r5w5m274s5t2y5f433p2e4y223q2s4h4j5d464p5j504q4n5d4n4c4a4q574n4m4i5i4o26484p4u5j4u5r5j4o4z3k454s413",
+		"playInNatPlayer": "true"
+		},{ 
+		"name": "Yateem TV",
+		"image": "https://www.hostpic.org/images/2111062319120107.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u246a4o4u2t5i424n484j4u5f444w554o404u4t5u4v41444k4u4m4k4c4s5n4g4j5n5v5s224g4c4t4c454m4l49426i4a4m4k4q2t5z236e4",
+		"playInNatPlayer": "true"
+		},{ 
+		"name": "TV Muslim",
+		"image": "https://www.hostpic.org/images/2111062320030104.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2t4r5m4z2u2p5f4n48414i456v4q5n5i494z384x5g464y2644303w2v2n416l4n416q5m5g424o4p4k4s416i4i4l404m4d444p4g4p5r42644d4v2y533",
+		"playInNatPlayer": "true"
+		},{ 
+		"name": "ถิ่นใต้ IPTV",
+		"image": "https://www.hostpic.org/images/2111062321310101.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g4y2s2x2y2b4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ฟาร์มทีวี HD",
+		"image": "https://www.hostpic.org/images/2206092109160096.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g40303z2x2f4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "13 สยามไทย",
+		"image": "https://www.hostpic.org/images/2111062324110088.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2x244i4a4p454o426u2l5x5d4r2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Cable 37HD",  
+		"image": "https://www.hostpic.org/images/2111062325330098.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2b4e584d48434c4h5m4w5n5c4v284t2h5m4i4n26423y2t243z274y2p2l5f5f5f4k5p264f484w5k4e4k4y3x2w2o2c4d426d4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ไทยอีสานทีวี",  
+		"image": "https://www.hostpic.org/images/2206082038390083.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d47474n2p4q2c414b4m5w5m274s5k41484l4g416w2x2q2w3b4g5h3l4j5s5z3m4z5m48484k4h513z2w2t5t2h4f414t4s5h41626m2h444s4a4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TVD2",  
+		"image": "https://www.hostpic.org/images/2202052032520094.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4j494e5s244i4d4r206u4m584m2c4x5k4q5",
+		"playInNatPlayer": "true"
+		},{
+		"name": "TVD10",  
+		"image": "https://www.hostpic.org/images/2206082045230093.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2q5s4l4p4m274v5u226q5n274l584s5l4a4c444r4v474x2r2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Media TV",  
+		"image": "https://www.hostpic.org/images/2206130520390100.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c4y2y2w2d4n5v2b4e474746484o2x2k5a4d464447454w2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "แอททีวี",  
+		"image": "https://www.hostpic.org/images/2206130524480098.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c403s2c4z2d4a443d4h5z224t2p274a4e4k5a4t2y23494",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Five Channel",  
+		"image": "https://www.hostpic.org/images/2206130529380091.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c454034343n523a494i513s2s2p274a4w2l5o5q2s244v2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "4050",  
+		"image": "https://www.hostpic.org/images/2206180529540098.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c454034384m5c4a494i513s2s2p274a4w2l5o5q2s244x2",
+		"playInNatPlayer": "true"
+		}
+
+]
+}

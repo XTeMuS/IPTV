@@ -1,0 +1,45 @@
+{
+"name": "Sport",
+"author": "ช่องกีฬาจากทั่วโลก ยกเว้นช่องปลาทู",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://tv.xtemus.com/playlist.php?l=sport",
+"info": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น",
+"stations": [
+		{
+		"name": "T-Sports",  
+		"image": "https://www.hostpic.org/images/2206130451460107.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4x254z244x223k5w233c4f5c464u2s2x2j5e4l5e414u284d4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ONE Golf",  
+		"image": "https://www.hostpic.org/images/2111070648280105.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w2c4w2v2y264u2n2t2o2t22413e4g4u2u224w214n4g4n205p3i3e3r3j3p4v2m406f5g5e4y5p2p4w28474t2m4n4r5l4n2g4r2p4c4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "ONE Golf",  
+		"image": "https://www.hostpic.org/images/2111070648280105.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2w2c4w2v2y264u2n2t2o2t22413e4g4u2u224w214n4g4n205p3i3e3r3j3p4v2b4w5i5i5r414h4u2s433",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Red Bull TV",  
+		"image": "https://www.hostpic.org/images/2111070703500112.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u20684m4m4y3i4a4p454q2h5j4j5v514d436c4i5t2j45416u2h4f4r4q2r5h4o4n51464033413x2z2u2o4l4v3e3y3b3p3q2d454z5s4n506z3v2441324t2i4r22633",
+		"playInNatPlayer": "true"
+		},{
+		"name": "NFL Network",  
+		"image": "https://www.hostpic.org/images/2111070709110103.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4u216q464g4l4n424b4x5v5n2h444n4q584u454z5t2p4b4o463o5c433q5y5x5j4y523q2u2j4r5s4e4t2r5b4o4m4l2h4h5m4r5o554n4x5t2y5s4749434t4i474d4i424k4b446j5y3h4k5r4m4s2k4j5k4i4e4i5p4l4q234n4t5v2n566k4g4m5t4j5u2p4l4j5g4p4l4c4r244s2k3s4u4z3g464p4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "PAC 12",  
+		"image": "https://www.hostpic.org/images/2206092126330104.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2y574c4x234r2k4j4f4m406r426069464e5j40484i414o5g4v2n4u4q2v5k43476q5m5m4z5q2g4y2s4e4",
+		"playInNatPlayer": "true"
+		},{
+		"name": "HardKnoks",  
+		"image": "https://www.hostpic.org/images/2206092218580090.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2m5x2u4x436e4o4p4d494t5c476o5m274p5m4z5b4b4i4w5l4t4p2m484z5v2l4l5m5i57406g484p4u21694h4d4h5r4d484h354z5s4n506n2t2144304k4w2l4d4",
+		"playInNatPlayer": "true"
+		}
+]
+}
