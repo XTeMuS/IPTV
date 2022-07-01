@@ -7,12 +7,12 @@
 		{
 		"name": "Top News (1)",
 		"image": "https://www.hostpic.org/images/2111062258060098.png",             
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4z3q4g4j4e49436r444l5f4q2x5f414f4h4j444r4o4j4m48426r4o2v554y5z2",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f413r2",
 		"playInNatPlayer": "true"
 		},{
 		"name": "Top News (2)",
 		"image": "https://www.hostpic.org/images/2111062258060098.png",             
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2e5a4a4h4k4m4l5m4m544k4q404f4i5u2i4n2k5f413r2",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4z3q4g4j4e49436r444l5f4q2x5f414f4h4j444r4o4j4m48426r4o2v554y5z2",
 		"playInNatPlayer": "true"
 		},{
 		"name": "Voice TV (1)",
@@ -25,16 +25,6 @@
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u226s4v2f4y59494c4c4g424b4x5v5n2u3s5g4h5c4q2o375s2p3c4u48414g4m4v5q5",
 		"playInNatPlayer": "true"
 		},{
-		"name": "Bluesky (1)",
-		"image": "https://www.hostpic.org/images/2111062300090102.png",             
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2b494a4y2a4z22403v284c443d444j4o4v5c4f5k4h4f4k5i4v2h4d4n424a4e436j5w5e44674b484l4w5b4l4v2f5i4m484j4f456b4q5j5e4i4i5j414a4d4l4v5i4l4c4r4n414l4t236a4",
-		"playInNatPlayer": "true"
-		},{
-		"name": "Bluesky (2)",
-		"image": "https://www.hostpic.org/images/2111062300090102.png",             
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2b494a4y2a4z22403v284c443d444j4o4v5c4f5k4h4f4k5i4v2h4d4n424a4e436j5w5e44674b484l4w5b4l4v2f5i4m484j4f456b4q5j5e4i4i5j414a4d4l4v5i4l4c4r4n414l4t236a4",
-		"playInNatPlayer": "true"
-		},{
 		"name": "NEWS1 (1)",
 		"image": "https://www.hostpic.org/images/2111062300580115.png",
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2l4n5t4s4x2z3i4a4p454t284u2l5x5d4r2w5r4w5c464d444l4e4q4r4s2e5g4b444r544o4b4",
@@ -43,11 +33,6 @@
 		"name": "NEWS1 (2)",
 		"image": "https://www.hostpic.org/images/2111062300580115.png",
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u216b4r4u4i5o4q2p2j4o4y5d4j5v5j4n4p5t2h5m4i4n206r4r48494g424m47456x52424n5d4p2k4y23623",
-		"playInNatPlayer": "true"
-		},{
-		"name": "Wellness Markshop",
-		"image": "https://www.hostpic.org/images/2111062305160092.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2l5a4n4t2x5e4m2p494k424k4r54654n4x5p4j584i494v5e4v2c4m4p2z5g4p256n53644x584q2u4g48674r4c404m4d444p4g4p5r42644d4v2y533",
 		"playInNatPlayer": "true"
 		},{
 		"name": "ถูกดีทีวี (1)",
@@ -132,7 +117,7 @@
 		},{
 		"name": "ลูกทุ่ง TVHD",
 		"image": "https://www.hostpic.org/images/2111062313380100.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2h5l4g4t2p4j416u2l5x5d4r2h5m4g584h4c406m4d4q2s4p424y2t2",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5f4v4d4j5q424p2d454s5h4v5j5i474h5l404a4k4d444d4t444d474m5d4q26414p5i4u5f4n4f4m4x5k4g4s4z5s2k474g4r2w5k4j576c4d4w5r404k4w2l4d4",
 		"playInNatPlayer": "true"
 		},{
 		"name": "ลั่นทุ่งทีวี",
@@ -190,11 +175,6 @@
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2t4r5m4z2u2p5f4n48414i456v4q5n5i494z384x5g464y2644303w2v2n416l4n416q5m5g424o4p4k4s416i4i4l404m4d444p4g4p5r42644d4v2y533",
 		"playInNatPlayer": "true"
 		},{ 
-		"name": "ถิ่นใต้ IPTV",
-		"image": "https://www.hostpic.org/images/2111062321310101.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g4y2s2x2y2b4",
-		"playInNatPlayer": "true"
-		},{
 		"name": "ฟาร์มทีวี HD",
 		"image": "https://www.hostpic.org/images/2206092109160096.png",
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g40303z2x2f4",
