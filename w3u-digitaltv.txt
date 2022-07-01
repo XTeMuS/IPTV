@@ -22,7 +22,7 @@
 		},{
 		"name": "NBT (2)",  
 		"image": "https://www.hostpic.org/images/2111062218180101.png",  
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2j4r5s4e4u2t5o454p274j424s4q5g4p213440314j4e4m4m5u2c4b4x224v4u2l4m5u50464n5p4h4i4j4r5p4t4u2q5x2m4z2",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d406b4e4k4m5s464t2m2d4u5v41626i494e5k404a4k4d4f4w263u213q2l5q474n5q5m5p4k5p284b4e4n5t2n4a4x5t2h4f414t4s5h41626m2h444s4a4",
 		"playInNatPlayer": "true"
 		},{
 		"name": "Thai PBS (1)",
@@ -62,7 +62,7 @@
 		},{
 		"name": "TNN (2)",
 		"image": "https://www.hostpic.org/images/2111062233560105.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2s4r5k4r2v2n2k4s59476u594n4x5t2r5y2q4w2",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d406b4e4k4m5s464t2m2d4u5v41626i494e5k404a4k4d4f4w263u213q2l5q474n5q5m5p4k5p284b4e4n5t2t4m4r5w2t2q2g4g4h5x4u5r5j4o4z3k454s413",
 		"playInNatPlayer": "true"
 		},{
 		"name": "JKN 18 (1)",
@@ -92,7 +92,7 @@
 		},{
 		"name": "Workpoint (2)",
 		"image": "https://www.hostpic.org/images/2111062238070104.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2w4n4v5h4h4i494i406s44654g4g4e5w4q5g4o4k434k403o443",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d406b4e4k4m5s464t2m2d4u5v41626i494e5k404a4k4d4f4w263u213q2l5q474n5q5m5p4k5p284b4e4n5t2w4n4v5h4h4i494i406s44654g4g4e5w4q5g4o4k434k403o443",
 		"playInNatPlayer": "true"
 		},{
 		"name": "True4u (1)",
@@ -102,7 +102,7 @@
 		},{
 		"name": "True4u (2)",
 		"image": "https://www.hostpic.org/images/2111062238370104.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2s4v5r464v2l4r2j5g436w5b4n4z3k454s413",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d406b4e4k4m5s464t2m2d4u5v41626i494e5k404a4k4d4f4w263u213q2l5q474n5q5m5p4k5p284b4e4n5t2t4q4y5b4t2o4n2k4s59476u594n4x5t2r5y2q4w2",
 		"playInNatPlayer": "true"
 		},{
 		"name": "GMM25 (1)",
@@ -122,7 +122,7 @@
 		},{
 		"name": "CH8 (2)",
 		"image": "https://www.hostpic.org/images/2111062239520099.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484q2q2p5m45616k4m4i584r5t284f4u553y203z2x224e4k4n5j5p5c41694o2c4b4p5b4w2b4l523o26484p4u5j41644d4v2y533",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2o5o4e4d4p5f4n484m2d4u5v41626i494e5k404a4k4d4f4w263u223q2l5q474n5q5m5p4k5p284b4e4n5t2c4g494t244b4l4i4r5r444v5r2p494",
 		"playInNatPlayer": "true"
 		},{
 		"name": "Mono 29 (1)",
