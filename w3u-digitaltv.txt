@@ -132,7 +132,7 @@
 		},{
 		"name": "Mono 29 (2)",
 		"image": "https://www.hostpic.org/images/2111062240200111.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2n5a4g4d434r234e4b4q274a4k54434j4z3r4m55323s294y2w2k3r3l3y4y2z2h5q4t4q3e5t2r233v225t2m4n4r5l4r20384g4z5747464w2s215j304q4p4i4m584m4q2b4b406m4d4u5n5w5n4e5r4s20323e43343y224u2y2p2d4v21643",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2r5k4w4h4t5q4n4p234j4t5v2y5u514t4i5p4d5b4a4d4w5t2p4b4o463i5g434w5s5i5f4g4u2y2w2z2a4",
 		"playInNatPlayer": "true"
 		},{
 		"name": "Mcot HD (1)",
