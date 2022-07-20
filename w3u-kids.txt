@@ -8,7 +8,7 @@
 		{
 		"name": "Cartoon Club",
 		"image": "https://www.hostpic.org/images/2111070528290094.png",
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2h5l4g4t2p4j416u2l5x5d4r2h5m4g584h4c406m4d4q2s4p424y2t2d4",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2c4z274x2w2a41343d4h5z224t2s2948423o5c4v2u26433",
 		"playInNatPlayer": "true"
 		},{
 		"name": "FW Toon",
@@ -16,14 +16,19 @@
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2d406b4e4k4m5s464t2m2d4u5v41626i494e5k404a4k4d4f4w263u213q2l5q474n5q5m5p4k5p284b4e4n5t2f4v4x5l4g4h4z3a436t2r5y5k4q4z3q4y5p4a414u5u2p4f494s4r5h4l42604q5u20603",
 		"playInNatPlayer": "true"
 		},{
+		"name": "Toonee",
+		"image": "https://www.hostpic.org/images/2207202119390091.png",
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2j5w2t2z2a4m584a494i513s2s2s2x2m533o58424y28403",
+		"playInNatPlayer": "true"
+		},{
 		"name": "EBS Kids TV",  
 		"image": "https://www.hostpic.org/images/2111070530440102.png",  
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2c4k5p4o4m4e5f4j4c4f4n424d4k516m274s5t2p5p4s254j5q4u4n49454r5d4m4b42414e4243474c4d4r5k4s4s4c5t2l44424g4l5s4b464o2f404a4m5s4j4b4t5g4s4n474q444w2w2b4b46403b4z2x2t2k494r453",
 		"playInNatPlayer": "true"
 		},{
-		"name": "LALE",  
-		"image": "https://www.hostpic.org/images/2111070531180112.png",  
-		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2q426o4e494q5s224n4i4q2169454u514g4i5u214j4e4m4m5u2i4h4c48436u2f494z594",
+		"name": "AniPlus",  
+		"image": "https://www.hostpic.org/images/2207202110190082.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2j5f4s4o4p574q4p214d4z5u2l5x5m2o4l5u2u5m4n4k4i5j4w2f4h4p4k5b3o4r5i5e4w2h594t2d44384b4b4e474746484o2z26403e4j5t2s27443",
 		"playInNatPlayer": "true"
 		},{
 		"name": "LEGO",  
