@@ -36,9 +36,19 @@
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2u5b4g4n4g5e424h4e494s5t206x5b4p4z384r584c49434r4v4q2o4f4g5x4e4r5x5x5s23403r2s2n444j403t494",
 		"playInNatPlayer": "true"
 		},{
-		"name": "PBS Kids",  
+		"name": "PBS Kids (1)",  
 		"image": "https://www.hostpic.org/images/2202190723150095.png",  
 		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2w29403",
+		"playInNatPlayer": "true"
+		},{
+		"name": "PBS Kids (2)",  
+		"image": "https://www.hostpic.org/images/2202190723150095.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u284r2f4r4w5r2r2p2j4o4y5d4j5v584j4w5r4j5p4r234w5k4w2j4k4244403q254f5q5f4y5o413x2v26433y203y3v2r203w2u2d4w254y5c45426j4n5q4p4m2u5y2u4z2",
+		"playInNatPlayer": "true"
+		},{
+		"name": "Toon Goggles",  
+		"image": "https://www.hostpic.org/images/2207202144280088.png",  
+		"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u216q4r4d4e5j4m2o4j4p2l5941626l2t2z3e4j5r4l4l4j5j4i46494p2i5n4f454u5p54446g4c4q4r444j403t49493f484k4r4v5q4t5h59484e403b4",
 		"playInNatPlayer": "true"
 		}
 	],
